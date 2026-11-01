@@ -9,6 +9,7 @@
 - [案例分类与归档规则](cases/README.md)
 - [案例模板](templates/case.md)
 - [ENG-20261020-001：RAGFlow 在 Windows 上的 80 端口访问异常](cases/infrastructure/networking/2026-10-20-ragflow-windows-portproxy.md)
+- [ENG-20261101-001：Godot 信号监听重入导致事件记录异常](cases/applications/2026-11-01-godot-signal-reentrant-payload.md)
 
 ## 目录设计
 
