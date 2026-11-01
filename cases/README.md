@@ -28,6 +28,7 @@
 | ID | 类型 | 案例 | 状态 |
 | --- | --- | --- | --- |
 | ENG-20261020-001 | 基础设施 / 网络与端口 | [RAGFlow 本机 80 端口连接重置与 portproxy](infrastructure/networking/2026-10-20-ragflow-windows-portproxy.md) | `workaround_verified` |
+| ENG-20261101-001 | 应用 / 事件与信号 | [Godot 同步信号监听重入导致后续监听器参数异常](applications/2026-11-01-godot-signal-reentrant-payload.md) | `resolved_verified`（业务回归通过，底层机制仍为推断） |
 
 ## 文件和字段
 
