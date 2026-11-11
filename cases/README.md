@@ -29,6 +29,7 @@
 | --- | --- | --- | --- |
 | ENG-20261020-001 | 基础设施 / 网络与端口 | [RAGFlow 本机 80 端口连接重置与 portproxy](infrastructure/networking/2026-10-20-ragflow-windows-portproxy.md) | `workaround_verified` |
 | ENG-20261101-001 | 应用 / 事件与信号 | [Godot 同步信号监听重入导致后续监听器参数异常](applications/2026-11-01-godot-signal-reentrant-payload.md) | `resolved_verified`（业务回归通过，底层机制仍为推断） |
+| ENG-20261112-001 | 应用 / 插件资源生命周期 | [Terrain3D 重复生成触发编辑器缩略图与空 RID](applications/2026-11-12-terrain3d-meshasset-preview-rid-lifecycle.md) | `resolved_verified`（用户本机全量测试通过；根因由上游源码与回归行为支持） |
 | ENG-20261102-001 | 开发工具 / Tkinter GUI 布局 | [Treeview 有扫描结果却完全不可见：pack 跨容器布局](development/tooling/2026-11-02-tkinter-treeview-pack-in-invisible.md) | `resolved_verified`（虚拟 GUI 复测通过，Windows 待验收） |
 
 ## 文件和字段
